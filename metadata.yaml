@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40759'
     url: http://www.gutenberg.org/2009/agents/40759
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40725#The-Orchard-SecretArden-Blake-Mystery-Series--1
 gutenberg_issued: '2012-09-10'
 gutenberg_type: Text
 identifiers:
